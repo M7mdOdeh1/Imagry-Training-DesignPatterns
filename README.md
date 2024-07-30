@@ -1,1 +1,3 @@
-# Imagry-Training-DesignPatternsDesign Patterns
+# Imagry-Training-DesignPatterns
+Design Patterns  
+second commit
