@@ -117,3 +117,7 @@ The State Pattern allows an object to change its behavior when its internal stat
 - **Context:** Object that has an internal state and whose behavior changes based on that state.
 - **State Interface:** Defines the interface for encapsulating the behavior associated with a particular state of the context.
 - **Concrete States:** Classes that implement the state interface and define the behavior for a particular state of the context.
+
+<br/>
+
+For More Details, read this doc: [https://docs.google.com/document/d/1cl0PxA8QG3we4sTdUIRs861gbd8G1v_SWfrANcDrFEM/edit?usp=sharing](Design Patterns)
