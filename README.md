@@ -120,4 +120,4 @@ The State Pattern allows an object to change its behavior when its internal stat
 
 <br/>
 
-For More Details, read this doc: [https://docs.google.com/document/d/1cl0PxA8QG3we4sTdUIRs861gbd8G1v_SWfrANcDrFEM/edit?usp=sharing](Design Patterns)
+For More Details, read this doc: [https://docs.google.com/document/d/1cl0PxA8QG3we4sTdUIRs861gbd8G1v_SWfrANcDrFEM/edit?usp=sharing](url)
