@@ -4,7 +4,7 @@ Design patterns are proven solutions to common problems in software design. They
 
 ## Categories of Design Patterns
 
-1. ### Creational Patterns
+### 1. Creational Patterns
 Deal with object creation mechanisms, trying to create objects in a manner suitable for the situation. Examples include Singleton, Factory, and Abstract Factory patterns.
 
 ### 2. Structural Patterns
