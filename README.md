@@ -4,13 +4,13 @@ Design patterns are proven solutions to common problems in software design. They
 
 ## Categories of Design Patterns
 
-### Creational Patterns
+### 1. Creational Patterns
 Deal with object creation mechanisms, trying to create objects in a manner suitable for the situation. Examples include Singleton, Factory, and Abstract Factory patterns.
 
-### Structural Patterns
+### 2. Structural Patterns
 Concerned with the composition of classes or objects. It helps to simplify the design of complex structures by identifying relationships and interactions between entities. Examples include Adapter, Composite, and Proxy patterns.
 
-### Behavioral Patterns
+### 3. Behavioral Patterns
 Focus on communication between objects and how responsibilities are distributed. Examples include Strategy, Observer, and Command patterns.
 
 ## Factory Design Pattern
